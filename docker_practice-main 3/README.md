@@ -1,6 +1,6 @@
 ## Student
-- Name: Vlad Makhun
-- Group: <232.1>
+- Name: Pavlenko Ivan
+- Group: 232.1
 
 ## Практичне заняття №3 — CRUD REST API для MiniShop
 
